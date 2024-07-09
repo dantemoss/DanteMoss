@@ -14,7 +14,7 @@ Skills: NEXTJS / REACT / JS / HTML / CSS / GIT / GITHUB / NODEJS / EXPRESS / NPM
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dantemoss)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dante-moscoso-aa146825a/)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantemoss)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=dantemoss)  
