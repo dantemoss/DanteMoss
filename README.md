@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Dante
 #### I am growing programmer from Argentina
-![I am growing programmer from Argentina](https://i.pinimg.com/originals/d1/18/e1/d118e1827509d6d608d0284903b189e2.gif)
+![I am growing programmer from Argentina](https://i.pinimg.com/564x/37/c6/8f/37c68ff0d0b664704990c337f9cddf4b.jpg)
 
 I am a guy who is really passionate about the things he does, a lover of music and human psychology. I love the world of programming because it is a realm in which there are no limits other than your imagination.
 
