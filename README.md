@@ -6,8 +6,8 @@ I am a guy who is really passionate about the things he does, a lover of music a
 
 Skills: NEXTJS / REACT / JS / HTML / CSS / GIT / GITHUB / NODEJS / EXPRESS / NPM
 
-- 🔭 I’m currently working on ReadyMind. 
-- 🌱 I’m currently learning Low-Code Tools (Power Platform) 
+
+
 - 💬 Ask me about any topic! I'm open to proposals haha 
 - 📫 How to reach me: dantemoss6@gmail.com 
 - ⚡ Fun fact: I can't live without music in between  
