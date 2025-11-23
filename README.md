@@ -1,6 +1,6 @@
 <div align="center" style="background-color: #0d1117; color: #c9d1d9;">
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGYxZ2Nud2JjNnh1ZW9yN3d2cWwzaWR5bXZwbTk5NG12eTc2emliNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/gbSk5dMWmDfqg/giphy.webp" width="75%" style="filter: grayscale(100%) contrast(120%) brightness(60%);" alt="Dark Waves Top">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGYxZ2Nud2JjNnh1ZW9yN3d2cWwzaWR5bXZwbTk5NG12eTc2emliNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/gbSk5dMWmDfqg/giphy.webp" width="65%" style="filter: grayscale(100%) contrast(120%) brightness(60%);" alt="Dark Waves Top">
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
@@ -61,7 +61,7 @@
   </p>
   
   <p align="center">
-    <img src="https://github.com/dantemoss/dantemoss/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+    <img src="https://raw.githubusercontent.com/dantemoss/dantemoss/output/github-contribution-grid-snake.svg" alt="snake" />
   </p>
    
   <br/>
@@ -74,6 +74,6 @@
   </a>
 
   <br/><br/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd2ZXlmam12bXJvNzhlbm8wMHZ2bzh2Nm1kcTRldDIycWxoYnFuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3CZDmgPC5waY/giphy.gif" width="75%" style="filter: grayscale(100%) contrast(150%) brightness(50%);" alt="Dark Glitch Waves Bottom">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd2ZXlmam12bXJvNzhlbm8wMHZ2bzh2Nm1kcTRldDIycWxoYnFuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3CZDmgPC5waY/giphy.gif" width="65%" style="filter: grayscale(100%) contrast(150%) brightness(50%);" alt="Dark Glitch Waves Bottom">
 
 </div>
